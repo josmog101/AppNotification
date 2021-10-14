@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201014715257",
+    "project_id": "appnotification-86af3",
+    "storage_bucket": "appnotification-86af3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201014715257:android:bb8c40d839bc576e5a05a8",
+        "android_client_info": {
+          "package_name": "com.corpotecguayana.appnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201014715257-m5l1fljjs7nhiblfutd1qpo2lb8460st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAczhH_5iqoRZiREZWOXATBY6qUPn_53Ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201014715257-m5l1fljjs7nhiblfutd1qpo2lb8460st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
